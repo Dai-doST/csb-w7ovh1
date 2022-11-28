@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dai-dost.github.io/csb-w7ovh1/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://dai-dost.github.io/csb-w7ovh1/static/js/main.2e1a98f3.chunk.js",
+    "main.js.map": "https://dai-dost.github.io/csb-w7ovh1/static/js/main.2e1a98f3.chunk.js.map",
+    "runtime-main.js": "https://dai-dost.github.io/csb-w7ovh1/static/js/runtime-main.08a8a422.js",
+    "runtime-main.js.map": "https://dai-dost.github.io/csb-w7ovh1/static/js/runtime-main.08a8a422.js.map",
+    "static/js/2.c0bab62c.chunk.js": "https://dai-dost.github.io/csb-w7ovh1/static/js/2.c0bab62c.chunk.js",
+    "static/js/2.c0bab62c.chunk.js.map": "https://dai-dost.github.io/csb-w7ovh1/static/js/2.c0bab62c.chunk.js.map",
+    "index.html": "https://dai-dost.github.io/csb-w7ovh1/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://dai-dost.github.io/csb-w7ovh1/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c0bab62c.chunk.js.LICENSE.txt": "https://dai-dost.github.io/csb-w7ovh1/static/js/2.c0bab62c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.08a8a422.js",
+    "static/js/2.c0bab62c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.2e1a98f3.chunk.js"
+  ]
+}
